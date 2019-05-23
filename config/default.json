@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Vadim_31:Vadim_31@devnetcluster-jvkhj.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken"
+}
