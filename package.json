@@ -2,6 +2,9 @@
   "name": "devnet",
   "version": "1.0.0",
   "description": "Social network for developers",
+  "engines": {
+    "node": "10.15.0"
+  }
   "main": "server.js",
   "scripts": {
     "start": "node server",
