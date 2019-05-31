@@ -26,7 +26,7 @@ const Profiles  = ({getProfiles, profile:{profiles, loading}}) => {
                 <i className="fab fa-connectdevelop"></i> Browse and connect with developers
             </p>
             <div className="profiles">
-                {profiles.length > 0 ? profilesList : <h4>No profiles found</h4>}
+                {profiles.length > 0 ? profilesList : <h4> No profiles found</h4>}
             </div>
         </Fragment>
     );

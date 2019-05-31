@@ -17,7 +17,7 @@ import CreateProfile from './components/profile-form/CreateProfile';
 import EditProfile from './components/profile-form/EditProfile';
 import AddExperience from './components/profile-form/AddExperience';
 import AddEducation from './components/profile-form/AddEducation';
-import Profiles from './components/profiles/Profiles';
+import Profiles from './components/profiles/AllProfiles';
 import Profile from './components/profile/Profile';
 import Posts from './components/posts/Posts';
 import SinglePost from './components/singlePost/SinglePost';
