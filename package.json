@@ -4,7 +4,7 @@
   "description": "Social network for developers",
   "engines": {
     "node": "10.15.0"
-  }
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server",
