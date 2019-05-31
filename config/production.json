@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Vadim_31:Vadim_31@devnetcluster-jvkhj.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "18502fcb03538e2e4192",
+  "githubSecret": "49f9bd1bddc2fbeca0ba3329dcd9bd7548f1b58c"
+}
